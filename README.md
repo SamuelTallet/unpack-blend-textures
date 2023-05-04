@@ -1,8 +1,8 @@
 # Unpack Blend Textures
 
-This program extracts the texture images packed in a Blender (*.blend) file and saves them as separate image files in a specified output directory.
+This program extracts the texture images packed in a Blender (*.blend) file and saves them as separate image files in a specified directory.
 
-Since it's written in Rust, it's very fast!
+Written in Rust, it is very fast!
 
 ## Installation
 
