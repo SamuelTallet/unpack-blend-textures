@@ -1,0 +1,12 @@
+[package]
+name = "unpack-blend-textures"
+version = "1.0.0"
+authors = ["Samuel Tallet"]
+edition = "2021"
+
+[dependencies]
+blend = "0.8.0"
+
+[[bin]]
+name = "unpack-blend-textures"
+path = "src/main.rs"
