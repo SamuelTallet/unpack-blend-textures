@@ -8,7 +8,7 @@ Written in Rust, it is very fast!
 
 I provide binaries for Windows and macOS in the [Releases page](https://github.com/SamuelTallet/unpack-blend-textures/releases).
 
-If you target Linux or another system:
+If you target Linux or another operating system:
 1. [Install Rust](https://www.rust-lang.org/tools/install).
 2. Compile the program with `cargo` as usual.
 
@@ -30,11 +30,11 @@ unpack-blend-textures "example.blend" "textures"
 
 ## Limitations
 
-Only JPEG (*.jpg, *.jpeg) textures images are supported for now.
+Only JPEG (*.jpg, *.jpeg) texture images are supported for now.
 
 ## Credits
 
-This project would have never existed without the [Rust blend crate](https://crates.io/crates/blend) made by [Lucas Bittencourt](https://github.com/lukebitts).
+This project would have never existed without the [blend Rust library](https://crates.io/crates/blend) created by [Lucas Bittencourt](https://github.com/lukebitts).
 
 ## License
 
