@@ -32,7 +32,7 @@ Only JPEG (*.jpg, *.jpeg) textures images are supported for now.
 
 ## Credits
 
-This program is nothing without the helpful [blend crate](https://crates.io/crates/blend).
+This program is nothing without the [Rust blend crate](https://crates.io/crates/blend) by [Lucas Bittencourt](https://github.com/lukebitts).
 
 ## License
 
