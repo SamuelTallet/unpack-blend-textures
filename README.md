@@ -28,10 +28,6 @@ For example, to extract the textures from the "example.blend" file and save them
 unpack-blend-textures "example.blend" "textures"
 ```
 
-## Limitations
-
-Only JPEG (*.jpg, *.jpeg) texture images are supported for now.
-
 ## Credits
 
 This project would have never existed without the [blend Rust library](https://crates.io/crates/blend) created by [Lucas Bittencourt](https://github.com/lukebitts).
